@@ -1,0 +1,18 @@
+.btn-primary{
+    width: 100%;
+    color: white;
+}
+
+body{
+    background-color: pink ;
+}
+
+h1{
+    color: white;
+}
+
+#camera, #result{
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+}
